@@ -1,65 +1,57 @@
-## Hi there, fellow explorer! 👋  
-### I'm Abhinav Birajdar  
+# 👋 Hey there!
 
-Welcome to my digital workshop and intellectual playground!
+I'm **Abhinav Birajdar** — a Full-Stack Web & Android Developer from **Nanded, India**, currently pursuing **B.Tech CSE at VIT Bhopal**.
 
-I'm a curious and passionate **Full-Stack Web & Android Developer** from Nanded, India — currently pursuing B.Tech in Computer Science at **VIT Bhopal**. I specialize in building scalable web and mobile experiences, exploring low-level systems with **Rust**, and diving deep into cryptography, blockchain, and real-time applications.
-
----
-
-### 🚀 What I'm Building & Exploring
-
-My toolkit blends creativity with system-level thinking across:
-
-- ⚛️ **Full-Stack App Development:**  
-  Building robust, scalable, and user-centric apps with **React**, **React Native (Expo)**, **TypeScript**, and **Supabase**. From UI to logic, I love turning ideas into production-ready experiences.
-
-- 🧠 **Data Structures & Algorithms:**  
-  DSA is my mental gym — solving problems with optimized solutions using recursion, dynamic programming, backtracking, and graph theory.
-
-- 🔐 **Cryptography & Rust Systems:**  
-  Exploring system-level programming with **Rust**, secure protocol design, and memory-safe development. I’m fascinated by how secure, performant systems are built from the ground up.
-
-- 🌐 **Blockchain & DAO Tooling:**  
-  Merging governance and transparency with tech — I’m building decentralized civic tools, voting systems, and reputation layers using Web3 concepts.
+I love building modern apps, exploring secure systems with Rust, and crafting real-time platforms using Web3 & Supabase.
 
 ---
 
-### 🌱 Currently Leveling Up In
+## 🚀 What I Do
 
-- 🦀 **Advanced Rust:** Async, memory management, and secure architecture.
-- 📱 **React Native Optimization:** Native modules, queue systems, and performance tuning.
-- 🧑‍💻 **TypeScript Mastery:** Enforcing type safety and scalable project architecture.
-- ⛓️ **DAO & Civic Tech Projects:** Using blockchain + Supabase to power real-time public platforms.
-
----
-
-### 🛠️ Some Projects I'm Proud Of
-
-- **🛣️ Towntap** – A multi-shop business app with real-time booking  
-- **✂️ FadeUp** – A sleek salon queue and booking system  
-- **📰 News Box** – AI-based news summaries with Gemini API  
-- **🛡️ AegisAI** – DAO-driven civic issue tracking with Supabase  
-- **🚨 Trinetra** – Women safety and emergency response platform  
-- **🧭 Mitra** – Career & educational roadmap guide for students  
-
-> View all on my [GitHub Repos »](https://github.com/abhinav28birajdar)
+- ⚛️ Frontend: React, React Native (Expo), Tailwind, NativeWind  
+- 💻 Backend: Supabase, REST APIs  
+- 🔐 Rust + Cryptography  
+- 📱 Android (Java, XML, Android Studio), Flutter  
+- 🧠 DSA: Recursion, DP, Graphs  
+- ⛓️ Blockchain + DAO + Civic Tech
 
 ---
 
-### 🤝 Let’s Connect & Collaborate
+## 🧰 Tech Stack
 
-I love contributing to open-source, exploring bold ideas, and connecting with fellow builders!  
-
-- 💬 Ask me about:  
-  React Native, Web3, Supabase, Rust, DSA, or Secure Systems  
-- 🤝 Open to:  
-  Building apps, contributing to civic-tech, collaborating on dev tools  
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/abhinav28birajdar) | [Twitter/X](https://twitter.com/abhi28birajdar)
-
----
-
-<p align="center">
-  <sub>Crafted with curiosity, code, and caffeine ☕</sub><br/>
-  <sub>— Abhinav Birajdar</sub>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
+
+---
+
+## 🌟 Notable Projects
+
+- 🛣️ **Towntap** – Multi-shop booking system  
+- ✂️ **FadeUp** – Salon queue + booking app  
+- 📰 **News Box** – AI news app with Gemini API  
+- 🛡️ **AegisAI** – Civic DAO with Supabase  
+- 🚨 **Trinetra** – Women safety & alert platform  
+- 🧭 **Mitra** – Career & roadmap guide  
+
+📁 [Explore My GitHub »](https://github.com/abhinav28birajdar)
+
+---
+
+## 🤝 Let’s Connect
+
+💬 Ask me about: React Native, Supabase, Rust, Web3, or DSA  
+📫 [LinkedIn](https://www.linkedin.com/in/abhinav28birajdar) • [Twitter/X](https://twitter.com/abhinav_b28)
+
+> Built with curiosity & ☕ — Abhinav
