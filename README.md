@@ -57,13 +57,13 @@
   <a href="https://www.linkedin.com/in/abhinav28birajdar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/abhinav_b28" target="_blank">
+  <a href="https://www.instagram.com/abhinav28birajdar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/abhinav_b28" target="_blank">
+  <a href="https://twitter.com/abhi28birajdar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/abhinav.birajdar.3" target="_blank">
+  <a href="https://www.facebook.com/abhinav28birajdar" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
