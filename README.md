@@ -10,10 +10,8 @@
 ### 🚀 What I Do
 
 - 🛠️ Building full-stack apps with **React**, **React Native**, **TypeScript**, **Supabase**
-- ⚙️ Exploring **Rust** systems & **Solidity** for blockchain projects
 - 📱 Creating modern Android apps using **Java**, **Flutter**, and **Expo**
 - 🧠 Sharpening skills with **DSA**: Recursion, DP, Graphs, Backtracking
-- 🌐 Developing DAO & civic-tech platforms with Web3 & real-time tools
 
 ---
 
@@ -32,8 +30,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 ---
@@ -43,7 +39,6 @@
 - 🛣️ **Towntap** – Multi-shop real-time booking app  
 - ✂️ **FadeUp** – Sleek salon queue & booking system  
 - 📰 **News Box** – AI-powered news summaries with Gemini API  
-- 🛡️ **AegisAI** – DAO-powered civic issue tracking using Supabase  
 - 🚨 **Trinetra** – Women’s emergency response & alert platform  
 - 🧭 **Mitra** – Career & education roadmap assistant
 
@@ -55,19 +50,19 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abhinav28birajdar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" />
   </a>
   <a href="https://www.instagram.com/abhinav28birajdar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" />
   </a>
   <a href="https://twitter.com/abhi28birajdar" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" />
   </a>
   <a href="https://www.facebook.com/abhinav28birajdar" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40" />
   </a>
 </p>
 
-💬 Ask me about: **React Native**, **Supabase**, **Rust**, **Solidity**, **Web3**, or **DSA**
+💬 Ask me about: **React Native**, **Supabase**, **DSA**
 
 > Crafted with curiosity, coffee ☕, and clean code — *Abhinav*
