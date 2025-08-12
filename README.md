@@ -53,20 +53,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🛣️ **Towntap** | Multi-shop real-time booking app | React, Supabase, Tailwind |
-| ✂️ **FadeUp** | Salon queue & booking system | React Native, Expo, NativeWind |
-| 📰 **News Box** | AI-powered news summaries | Next.js, Gemini API |
-| 🚨 **Trinetra** | Women’s emergency response & alert platform | Flutter, Firebase |
-| 🧭 **Mitra** | Career & education roadmap assistant | Next.js, Supabase |
-
-📁 **[Explore All Projects →](https://github.com/abhinav28birajdar)**
-
----
-
 ### 💬 Ask Me About:
 **React Native**, **Supabase**, **Next.js**, **UI/UX Design**, **DSA**
 
@@ -75,24 +61,6 @@
 ### ✨ Fun Fact:
 Crafted with curiosity, coffee ☕, and clean code — *Abhinav*
 
----
-
-<style>
-.wave {
-  animation: wave-animation 2s infinite;
-  display: inline-block;
-  transform-origin: 70% 70%;
-}
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
 img:hover {
   transform: scale(1.15);
   transition: transform 0.2s ease-in-out;
