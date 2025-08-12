@@ -60,9 +60,3 @@
 
 ### ✨ Fun Fact:
 Crafted with curiosity, coffee ☕, and clean code — *Abhinav*
-
-img:hover {
-  transform: scale(1.15);
-  transition: transform 0.2s ease-in-out;
-}
-</style>
