@@ -24,7 +24,7 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="50" title="TypeScript" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=js" width="50" title="JavaScript" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=react" width="50" title="React" /></a>
@@ -53,6 +53,19 @@
 
 ---
 
+## 🌟 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛣️ **Towntap** | Multi-shop real-time booking app | React, Supabase, Tailwind |
+| ✂️ **FadeUp** | Salon queue & booking system | React Native, Expo, NativeWind |
+| 📰 **News Box** | AI-powered news summaries | Next.js, Gemini API |
+| 🚨 **Trinetra** | Women’s emergency response & alert platform | Flutter, Firebase |
+| 🧭 **Mitra** | Career & education roadmap assistant | Next.js, Supabase |
+
+📁 **[Explore All Projects →](https://github.com/abhinav28birajdar)**
+
+---
 
 ### 💬 Ask Me About:
 **React Native**, **Supabase**, **Next.js**, **UI/UX Design**, **DSA**
@@ -79,5 +92,9 @@ Crafted with curiosity, coffee ☕, and clean code — *Abhinav*
   50% { transform: rotate(10deg); }
   60% { transform: rotate(0deg); }
   100% { transform: rotate(0deg); }
+}
+img:hover {
+  transform: scale(1.15);
+  transition: transform 0.2s ease-in-out;
 }
 </style>
