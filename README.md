@@ -1,34 +1,34 @@
 <h1 align="center">
-  Hey there, I'm Abhinav <span class="wave">👋</span>
+  Hey there, I'm Abhinav
+  <span>
+    <img src="https://raw.githubusercontent.com/abhinav28birajdar/assets/main/wave-hand.gif" width="35" />
+  </span>
 </h1>
 
 <p align="center">
-  <b>Full-Stack Web & Android Developer | UI/UX Designer</b><br />
+  <b>Full-Stack Web & Android Developer | UI/UX Designer</b>  
   From Nanded, India 🇮🇳 | B.Tech CSE @ Vellore Institute of Technology
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 👨‍💻 About Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhinav28birajdar"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn" /></a>
-  <a href="https://www.instagram.com/abhinav28birajdar"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" title="Instagram" /></a>
-  <a href="https://twitter.com/abhi28birajdar"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" title="Twitter" /></a>
-  <a href="https://www.facebook.com/abhinav28birajdar"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" title="Facebook" /></a>
-  <a href="https://dribbble.com/abhinav28birajdar"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111402.png" width="40" title="Dribbble" /></a>
-  <a href="https://www.behance.net/abhinav28birajdar"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="40" title="Behance" /></a>
-</p>
+I'm a passionate **Full-Stack Developer** and **UI/UX Designer** with a love for crafting modern, scalable, and user-friendly applications.  
+I specialize in building **web** and **mobile** solutions, blending clean code with elegant design.
+
+💡 **What drives me:** Turning ideas into reality with code.  
+🌱 **Currently learning:** Advanced React patterns & DSA.  
+☕ **Fun fact:** I run on coffee and curiosity.  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack  
 
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="50" title="TypeScript" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=js" width="50" title="JavaScript" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=react" width="50" title="React" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="50" title="React Native" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=expo" width="50" title="Expo" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="50" title="Next.js" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS" /></a>
@@ -45,18 +45,19 @@
 
 ---
 
-## 🚀 What I Do
-- 🛠 Building full-stack apps with **React**, **React Native**, **Next.js**, **TypeScript**, **Supabase**
-- 📱 Creating Android apps with **Java**, **Flutter**, **Expo**, **NativeWind**
-- 🎨 Designing UI/UX with **Figma** and **Adobe XD**
-- 🧠 Improving skills in **Data Structures & Algorithms**
+## 💼 What I Do  
+
+- **Web Development:** Full-stack apps using React, Next.js, TypeScript, Supabase  
+- **Mobile Development:** Cross-platform apps with React Native, Expo, Flutter, NativeWind  
+- **UI/UX Design:** Crafting engaging designs in Figma & Adobe XD  
+- **Problem Solving:** Writing efficient algorithms & clean, maintainable code  
 
 ---
 
-### 💬 Ask Me About:
-**React Native**, **Supabase**, **Next.js**, **UI/UX Design**, **DSA**
+## 📫 Let's Connect  
 
----
-
-### ✨ Fun Fact:
-Crafted with curiosity, coffee ☕, and clean code — *Abhinav*
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinav28birajdar"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn" /></a>
+  <a href="https://www.instagram.com/abhinav28birajdar"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" title="Instagram" /></a>
+  <a href="https://twitter.com/abhi28birajdar"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" title="Twitter" /></a>
+</p>
