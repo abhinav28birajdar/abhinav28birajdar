@@ -129,7 +129,6 @@ I'm a passionate **Full-Stack Developer** specializing in building modern web an
 
 **📍 Location:** Nanded, Maharashtra, India  
 **🎓 Education:** B.Tech Computer Science Engineering @ VIT  
-**💼 Status:** Open to opportunities and collaborations
 
 </div>
 
