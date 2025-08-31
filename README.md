@@ -136,10 +136,5 @@ I'm a passionate **Full-Stack Developer** specializing in building modern web an
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=abhinav28birajdar&style=flat-square&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/abhinav28birajdar?style=flat-square&color=blue)](https://github.com/abhinav28birajdar)
-
 **⭐ If you find my work interesting, consider giving my repositories a star!**
-
 </div>
