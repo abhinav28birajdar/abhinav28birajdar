@@ -4,13 +4,7 @@
 
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=400&height=50&lines=Hello%2C+I'm+Abhinav;Full-Stack+Developer;Android+Developer;UI%2FUX+Designer" alt="Typing SVG" />
-  <img src="https://raw.githubusercontent.com/abhinav28birajdar/assets/main/wave-hand.gif" width="25px" alt="wave" />
-</h1>
-
 <p align="center">
-  <b>Android Developer | Web Developer | UI/UX Designer</b><br>
   B.Tech CSE @ Vellore Institute of Technology | Nanded, Maharashtra, India 🇮🇳
 </p>
 
@@ -58,19 +52,6 @@ I'm a passionate **Full-Stack Developer** specializing in building modern web an
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| **🏙️ TownTap** | Multi-category business discovery platform | React Native, Expo, TypeScript, Supabase | [![GitHub](https://img.shields.io/badge/View-000?style=flat&logo=github&logoColor=white)](https://github.com/abhinav28birajdar/TownTap) |
-| **💇 FadeUp** | Real-time barber shop booking system | React Native, Node.js, MongoDB | [![GitHub](https://img.shields.io/badge/View-000?style=flat&logo=github&logoColor=white)](https://github.com/abhinav28birajdar/FadeUp) |
-| **👮 MC Complaint App** | Digital civic issue reporting system | Flutter, Dart, Firebase | [![GitHub](https://img.shields.io/badge/View-000?style=flat&logo=github&logoColor=white)](https://github.com/abhinav28birajdar/MC_complaint_app) |
-| **🎥 Movie Box** | Movie discovery and recommendation app | React Native, TMDB API | [![GitHub](https://img.shields.io/badge/View-000?style=flat&logo=github&logoColor=white)](https://github.com/abhinav28birajdar/Movie_Box) |
-| **📰 News Box** | Real-time news aggregation app | React Native, News API | [![GitHub](https://img.shields.io/badge/View-000?style=flat&logo=github&logoColor=white)](https://github.com/abhinav28birajdar/News_Box) |
-| **🔐 CivicChain** | Blockchain civic governance (Learning Project) | Solidity, Web3.js, React | [![GitHub](https://img.shields.io/badge/View-000?style=flat&logo=github&logoColor=white)](https://github.com/abhinav28birajdar/CivicChain) |
 
 ---
 
