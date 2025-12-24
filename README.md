@@ -4,35 +4,55 @@
 
 </div>
 
-<p align="center">
-  <b>Full-Stack Developer | B.Tech CSE @ VIT | Nanded, Maharashtra 🇮🇳</b>
-</p>
+## 👨‍💻 Profile
+
+Full-Stack Developer with experience in building scalable **web and mobile applications**.  
+Focused on clean architecture, performance, and intuitive user experiences.
 
 ---
 
-### 👨‍💻 About Me  
-I’m a **Full-Stack Developer** passionate about building modern, scalable web and mobile apps with clean code and thoughtful design.
+## 🛠 Tech Stack
 
-- 💻 Working with **React, Next.js, React Native, Flutter, Node.js**  
-- 🌱 Exploring **Web3**, **System Design**, and **advanced React patterns**  
-- 🚀 Focused on **performance**, **UX**, and **open-source**  
+**Frontend**
+- React • Next.js • TypeScript
+- Tailwind CSS • UI/UX Design
 
----
+**Mobile**
+- React Native (Expo)
+- Flutter
 
-### 🧠 Tech Stack  
-React • Next.js • TypeScript • Tailwind • React Native • Flutter • Node.js • Supabase • PostgreSQL  
-
----
-
-### 📫 Connect  
-<p align="center">
-  <a href="mailto:abhinavbirajdar28@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/abhinav28birajdar">💼 LinkedIn</a> •
-  <a href="https://github.com/abhinav28birajdar">💻 GitHub</a> •
-  <a href="https://abhinav28birajdar.vercel.app">🌐 Portfolio</a>
-</p>
+**Backend & Database**
+- Node.js
+- Supabase • PostgreSQL • Firebase
 
 ---
 
-<p align="center">⭐ <b>Let’s build something impactful!</b></p>
+## 📌 Selected Work
+
+- **FadeUp** – Salon & Barber Booking Platform  
+- **Trinetra** – Women Safety Mobile Application  
+- **Towntap** – Local Business & Services Platform  
+- **Mitra Career Guide** – AI-based Career Guidance App  
+- **MC Complaint App** – Civic Issue Reporting System  
+
+---
+
+## 🎯 Current Focus
+
+- Advanced React & frontend architecture  
+- System Design fundamentals  
+- Web3 & decentralized applications  
+
+---
+
+## 📫 Contact
+
+- Email: **abhinavbirajdar28@gmail.com**
+- LinkedIn: **linkedin.com/in/abhinav28birajdar**
+- Portfolio: **abhinav28birajdar.vercel.app**
+
+---
+
+<sub>Open to collaborations, internships, and impactful engineering roles.</sub>
+
 
