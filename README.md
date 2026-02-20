@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/da4cebcf-b374-4daf-a132-02b381a79112" 
+  <img src="https://github.com/user-attachments/assets/807f2629-18ca-4f43-8954-e1e20a88f75b" 
        alt="Abhinav Birajdar - Full Stack Developer" 
        width="100%" />
 </div>
