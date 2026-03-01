@@ -24,10 +24,7 @@ Node.js • Supabase • PostgreSQL • Firebase
 
 ## 🚀 Featured Projects
 
-- **FadeUp** – Salon & Barber Booking Platform  
-- **Trinetra** – Women Safety Mobile Application  
-- **Towntap** – Local Business & Services Platform  
-- **Mitra Career Guide** – AI-Powered Career Guidance App  
+- **Towntap** – Local Business & Services Platform   
 - **MC Complaint App** – Civic Issue Reporting System  
 
 ---
