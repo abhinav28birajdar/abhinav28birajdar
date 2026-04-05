@@ -4,43 +4,16 @@
        width="100%" />
 </div>
 
-Full-Stack Developer specializing in scalable web and mobile applications.  
-Focused on clean architecture, performance optimization, and intuitive user experiences.
+Full-Stack Developer building scalable web & mobile applications.  
+Focused on clean architecture, performance, and intuitive UX.
 
----
+Working on **TownTap**, **Taxmate**, **Moboui**, and **SkillBox**.
 
-## 🛠 Tech Stack
+**Tech:** React • Next.js • TypeScript • JavaScript • Go • Dart  
+React Native • Flutter • Node.js  
+AWS • Appwrite • Firebase • Supabase • PostgreSQL  
+Three.js • Chart.js  
 
-**Frontend**  
-React • Next.js • TypeScript • Tailwind CSS  
+Exploring System Design, Advanced React, and Web3.
 
-**Mobile**  
-React Native (Expo) • Flutter  
-
-**Backend & Database**  
-Node.js • Supabase • PostgreSQL • Firebase  
-
----
-
-## 🚀 Featured Projects
-
-- **Towntap** – Local Business & Services Platform   
-- **MC Complaint App** – Civic Issue Reporting System  
-
----
-
-## 🎯 Current Focus
-
-Advanced React Architecture • System Design • Web3 Applications  
-
----
-
-## 📫 Connect With Me
-
-- 📧 abhinavbirajdar28@gmail.com  
-- 🔗 https://linkedin.com/in/abhinav28birajdar  
-- 🌐 https://abhinav28birajdar.vercel.app  
-
----
-
-_Open to internships, collaborations, and impactful engineering opportunities._
+Open to internships, collaborations, and impactful engineering opportunities.ities._
