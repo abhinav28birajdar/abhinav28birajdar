@@ -7,7 +7,13 @@
 Full-Stack Developer building scalable web & mobile applications.  
 Focused on clean architecture, performance, and intuitive UX.
 
-Working on **TownTap**, **Taxmate**, **Moboui**, and **SkillBox**.
+---
+Working on **TownTap**,
+          **Taxmate**, 
+          **Moboui**, 
+          **SkillBox**.
+
+---
 
 **Tech:** React • Next.js • TypeScript • JavaScript • Go • Dart  
 React Native • Flutter • Node.js  
@@ -16,4 +22,4 @@ Three.js • Chart.js
 
 Exploring System Design, Advanced React, and Web3.
 
-Open to internships, collaborations, and impactful engineering opportunities.ities._
+
